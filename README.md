@@ -11,4 +11,5 @@ Following datasets:
 # What i want to find out
 
 - What tags correlate most strongly with views per month, positively or negatively, for all the photographs that are featured pictures
+- What approximate colors correlate most strongly with views per month, positively or negatively, for all the photographs that are featured pictures
 
