@@ -12,4 +12,5 @@ Following datasets:
 
 - What tags correlate most strongly with views per month, positively or negatively, for all the photographs that are featured pictures
 - What approximate colors correlate most strongly with views per month, positively or negatively, for all the photographs that are featured pictures
+- which tags cluster a lot / are more often seen together than expected by chance, or the reverse
 
