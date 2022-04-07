@@ -1,3 +1,13 @@
+# 2022-04-07
+## Building a web frontend for exploring featured images, their labels and colors
+
+The plan is to have a frontend where you can filter all photographs that are featured images (<10000 images) by labels and colors.
+To facilitate not having to send to heavy a dataset to the browser, colors should be reduced to an 8-bit value. This will also make it easy to filter by similar, not neccesary identical colors.
+
+
+
+
+
 # What i have
 
 Following datasets:
