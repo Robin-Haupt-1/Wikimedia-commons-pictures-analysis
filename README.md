@@ -1,7 +1,6 @@
 # 2022-04-08 Preparing a short report on the findings
 I could identify the 10 most popular labels (most positively correlated with picture views) and identify the colors that the 100 most popular images with that tag are most likely to contain. I should reduce the colors to an 8 bit space. Then i could identify which labels are most / least likely to appear in the same image as those ten tags and list them, and link to the most popular image containing this label. I could create plots of the colors / views distribution per tag. I could also create a heatmap of the ten example pics' views over time to demonstrate whether they had a huge spike at some point or gained their 'most-popular' status piecemeal over time.
-
-Alternatively, i could look at the most popular pics ever and create a heatmap of their views over time
+ 
 
 # 2022-04-07
 ## Building a web frontend for exploring featured images, their labels and colors
